@@ -19,7 +19,7 @@ public class b_11050 {
 
         int N = Integer.parseInt(cal[0]);
         int K = Integer.parseInt(cal[1]);
-        
+
         int uResult = 1;
         int dResult = 1;
 
