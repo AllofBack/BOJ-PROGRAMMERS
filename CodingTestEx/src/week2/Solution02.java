@@ -2,6 +2,10 @@ package week2;
 
 import java.util.Stack;
 
+/*
+- 자릿수 올라가는 경우 offset과 stack을 통해 활용이 가능함
+ */
+
 public class Solution02 {
     public int[] solution(int[] a, int[] b) {
         Stack<Integer> stack = new Stack<>();
