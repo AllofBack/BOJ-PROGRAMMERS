@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CodingTestEx/CodingTestEx.iml" filepath="$PROJECT_DIR$/CodingTestEx/CodingTestEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/ETC/ETC.iml" filepath="$PROJECT_DIR$/ETC/ETC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programmers/Programmers.iml" filepath="$PROJECT_DIR$/Programmers/Programmers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Softeer/Softeer.iml" filepath="$PROJECT_DIR$/Softeer/Softeer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithm-BOJ.iml" filepath="$PROJECT_DIR$/.idea/algorithm-BOJ.iml" />
     </modules>
   </component>
