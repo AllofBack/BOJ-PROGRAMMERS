@@ -1,11 +1,11 @@
-// 신고 결과 받기
+package LEVEL1;// 신고 결과 받기
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class p_01 {
+public class P_01 {
 
     public int[] solution(String[] id_list, String[] report, int k) {
 
